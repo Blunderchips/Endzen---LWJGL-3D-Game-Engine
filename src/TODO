@@ -1,0 +1,24 @@
+************************************
+* TTTTTTT  OOOOOOO  DDD    OOOOOOO *
+*   TTT    O     O  D  D   O     O *
+*   TTT    O     O  D   D  O     O *
+*   TTT    OOOOOOO  DDDD   OOOOOOO *
+************************************
+
+- <b>collision</b> (in progress) <- i lied
+- readme
+- shader lighting
+- shaders in general
+- <b>multilayer support</b>
+- seasons
+- longer night and shorter days in winter and longer days and shorter night in summer
+- random name and comment, all done in query
+- randomly generated in game music
+- use barycentric for more accurate in height map (ln 247ish) 
+- fog shader
+- updater readme
+- screenshots
+- do stuff on this list
+- night sky
+- OBJ files in database
+- Frustum Culling
